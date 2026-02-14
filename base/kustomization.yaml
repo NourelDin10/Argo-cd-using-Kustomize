@@ -1,0 +1,6 @@
+resources:
+  - deployment.yml
+  - service.yml
+  - pvc.yml
+  - secrets.yml
+  - db-config.yml
