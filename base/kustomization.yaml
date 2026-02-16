@@ -4,3 +4,4 @@ resources:
   - pvc.yml
   - secrets.yml
   - db-config.yml
+  - ingress.yml
